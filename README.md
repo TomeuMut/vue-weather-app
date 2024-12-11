@@ -10,7 +10,7 @@ This is a simple weather application project I developed to test the basic funct
 
 ## Screenshot
 
-![Weather App Screenshot](./assets/screenshot.png)
+![Weather App Screenshot](./src/assets/screenshot.png)
 
 ## Technologies Used
 
